@@ -1,0 +1,10 @@
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\253\passador\bin\Debug\passador.exe.config
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\253\passador\bin\Debug\passador.exe
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\253\passador\bin\Debug\passador.pdb
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\253\passador\obj\Debug\passador.csproj.AssemblyReference.cache
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\253\passador\obj\Debug\passador.Form1.resources
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\253\passador\obj\Debug\passador.Properties.Resources.resources
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\253\passador\obj\Debug\passador.csproj.GenerateResource.cache
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\253\passador\obj\Debug\passador.csproj.CoreCompileInputs.cache
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\253\passador\obj\Debug\passador.exe
+C:\Users\Alexsandre Spritzer\OneDrive\Área de Trabalho\Linguagem de Programação\253\passador\obj\Debug\passador.pdb
